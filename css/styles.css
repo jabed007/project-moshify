@@ -448,6 +448,10 @@ a {
 
 /* Block Quote */
 
+.testimonial .quote {
+  font-size: 110%;
+}
+
 .quote {
   font-size: 3rem;
   font-style: italic;
